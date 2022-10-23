@@ -277,7 +277,7 @@ int main()
 
 /* ************************ WAP to check whether check year is leap year or not ************************** */
 
-
+/* 
 #include<iostream>
 using namespace std;
 
@@ -300,4 +300,4 @@ int main()
     return 0;
 }
 
-
+ */
