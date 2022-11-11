@@ -138,26 +138,26 @@
 
 
 
-void main()
-{
-    short int x;
+// void main()
+// {
+//     short int x;
 
-    x = 32766;
-    int size = sizeof(x);
+//     x = 32766;
+//     int size = sizeof(x);
 
-    printf("\n%d\n",size);
-    printf("%d\n",x);
+//     printf("\n%d\n",size);
+//     printf("%d\n",x);
 
-    x = 32767;
-    printf("%d\n",x);
+//     x = 32767;
+//     printf("%d\n",x);
 
-    x = 32768;
-    printf("%d\n",x);
+//     x = 32768;
+//     printf("%d\n",x);
 
-    x = 32769;
-    printf("%d\n",x);
+//     x = 32769;
+//     printf("%d\n",x);
    
-}
+// }
 
 
 
